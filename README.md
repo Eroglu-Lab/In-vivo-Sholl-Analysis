@@ -15,3 +15,8 @@ Input data:
 The example data sholl_InputData.csv is from 3D Sholl Analysis from Imaris. 
 Please see the following citation for detailed methods: Baldwin, K. T., Tan, C. X., Strader, S. T., Jiang, C., Savage, J. T., Elorza-Vidal, X., ... & Eroglu, C. (2021). HepaCAM controls astrocyte self-organization and coupling. Neuron, 109(15), 2427-2442.
 Input data should be a .csv file
+
+Expected output:
+![image](https://user-images.githubusercontent.com/65187156/229168874-03d96c20-632e-4646-a816-072b2c0c0b59.png)
+
+Expected run time: < 5 minutes
