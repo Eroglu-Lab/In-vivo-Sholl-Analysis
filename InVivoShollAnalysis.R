@@ -1,14 +1,7 @@
-library(plyr)
-library(stringr)
 library(ggplot2)
-library(reshape)
 library(car)
-library(agricolae)
-library(lme4)
 library(nlme)
 require(multcomp)
-library(ggplot2)
-
 
 #Read in data
 d <- read.csv('sholl_InputData.csv') #enter path of file
