@@ -20,3 +20,5 @@ Expected output:
 ![image](https://user-images.githubusercontent.com/65187156/229168874-03d96c20-632e-4646-a816-072b2c0c0b59.png)
 
 Expected run time: < 5 minutes
+
+This research was funded [in part] by Aligning Science Across Parkinson’s [ASAP-020607] through the Michael J. Fox Foundation for Parkinson’s Research (MJFF).
